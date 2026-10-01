@@ -29,7 +29,7 @@ export const SITE_CONFIG = {
   // شماره تماس
   phone: {
     raw: "09033888779",
-    formatted: "۰۹۰۳ ۳۸۸ ۸۷۷۹",
+    formatted: "0903-388-8779",
     international: "+989033888779",
   },
 
@@ -42,7 +42,7 @@ export const SITE_CONFIG = {
    * شما می‌توانید این آدرس را با لینک دلخواه خود جایگزین کنید.
    * مثال: "https://upload.yourdomain.ir" یا فرم آپلود اختصاصی
    */
-  serverUploadUrl: "https://typenikbakht.ir/upload",
+  serverUploadUrl: "https://cross-platform-lake.vercel.app/",
   serverUploadLabel: "ارسال و بارگذاری فایل روی سرور",
   serverUploadSublabel: "آپلود مستقیم مدارک و اسناد بدون افت کیفیت",
 
